@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
 
 })
 export class AppComponent {
-  public title: string = 'hola';
+  public title: string = '';
   public counter:number=10;
 
   // increaseBy():void{
